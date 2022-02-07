@@ -15,6 +15,7 @@ struct ContentView: View {
         MenuView()
             .environmentObject(menu)
             .environmentObject(history)
+            // STARTING HERE TO MAKE CHANGES
     }
 }
 
